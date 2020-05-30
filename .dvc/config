@@ -1,0 +1,4 @@
+[core]
+    remote = my-az
+['remote "my-az"']
+    url = azure://viewer-test/johnnie-azure
